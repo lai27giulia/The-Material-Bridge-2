@@ -1,0 +1,17 @@
+# robots.txt - The Material Bridge
+# Guida i web crawler sui contenuti da indicizzare
+
+# Allow all bots (we have nothing to hide - privacy-first!)
+User-agent: *
+Allow: /
+
+# Disallow paths that don't need indexing
+Disallow: /api/
+Disallow: /.next/
+Disallow: /node_modules/
+
+# Sitemap location
+Sitemap: https://the-material-bridge.vercel.app/sitemap.xml
+
+# Crawl delay (be nice to servers)
+Crawl-delay: 1

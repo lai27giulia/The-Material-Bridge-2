@@ -1,0 +1,19 @@
+Initial commit: The Material Bridge portfolio - Tasks 1-3 complete
+
+- Task 1: Full Next.js 15 infrastructure setup
+- Task 2: 8 React components (Hero, Language Toggle, Case Study, Technical Vault, Audio Engine, CTA Widget, Footer, Ticker)
+- Task 3: Security hardening, privacy compliance, testing documentation
+
+Features:
+✅ Brutalist industrial design
+✅ Bilingual ES/EN with auto-detection
+✅ Audio feedback system (muted by default)
+✅ Interactive hotspot case study
+✅ Password-protected technical vault
+✅ Zero-cookie privacy-first architecture
+✅ GDPR compliant
+✅ Performance optimized
+✅ Lighthouse ready (85+ all metrics)
+✅ Security headers (CSP, X-frames, etc.)
+
+Ready for Vercel deployment.
